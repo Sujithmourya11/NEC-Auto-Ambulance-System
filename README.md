@@ -9,7 +9,7 @@
 
 This project was built during NEC Hackathon 2019. We planned to use auto-rickshaw instead of ambulance because autos are easily accessible and ambulance usually take a lot of time to reach the victims. In this we built an Android app to replace the GPS tracker, thus saving energy and making it cost efficient. We also created a website to show the location of auto drivers on Google Map and provided an Emergency Button so that if any accident occurs, the victim or the nearby person can press the button to get help. Whenever the button is clicked, a message containing google location of the victim as well as the google locations of nearby hospitals will be sent to the nearby auto driver. Hence, providing almost immediate help.
 
-## To Visit The Application:- [Click Here](https://necautoambulance.in/Auto_Ambu_mobile/user_help.php)
+## To Visit The Application:- [Click Here](http://www1.necautoambulance.in/?tm=1&subid4=1684492465.0468800000&kw=Emergency+Auto+Ambulance+service&KW1=NEC%20Auto%20Ambulance%20System&KW2=Road%20Accident%20Assistance%20Service&KW3=Personal%20Accident%20Insurance&KW4=Mobile%20Ambulance%20Service&searchbox=0&domainname=0&backfill=0)
 
 ## Story Boarding:- 
 
